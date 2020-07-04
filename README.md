@@ -1186,7 +1186,7 @@ sorted_counties.head(20)
 
 
 
-### Important - Deleting the endpoint
+## Important - Deleting the endpoint
 
 
 Always remember to shut down the model endpoint if it is no longer being used. AWS charges for the duration that an endpoint is left running, so if it is left on then there could be an unexpectedly large AWS bill.
