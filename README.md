@@ -90,21 +90,21 @@ This was the general outline followed for this SageMaker project:
 
 1. Loading data from S3
 2. Exploratory Data Analysis (EDA)
-        a. Visualizing data
-        b. Data modeling
+    * a. Visualizing data
+    * b. Data modeling
 3. Dimensionality reduction
-        a. Define a PCA model
-        b. Train the model
+    * a. Define a PCA model
+    * b. Train the model
 4. Data variance
-        a. Tradeoff - dimensionality vs data variance
-        b. Component makeup
+    * a. Tradeoff - dimensionality vs data variance
+    * b. Component makeup
 5. Deploying the PCA model
 6. Population segmentation
-        a. Exploring the resultant clusters
-        b. Visualizing data distribution across clusters
+    * a. Exploring the resultant clusters
+    * b. Visualizing data distribution across clusters
 7. Model attributes and explainability
-        a. Visualizing centroids in component space
-        b. Natural groupings
+    * a. Visualizing centroids in component space
+    * b. Natural groupings
 8. Important: Deleting the endpoint
 
 
