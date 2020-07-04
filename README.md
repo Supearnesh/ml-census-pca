@@ -105,7 +105,6 @@ This was the general outline followed for this SageMaker project:
 7. Model attributes and explainability
     * a. Visualizing centroids in component space
     * b. Natural groupings
-8. Important: Deleting the endpoint
 
 
 
