@@ -1,4 +1,4 @@
-# Dimensionality Reduction of US Census Data using Principal Component Analysis (PCA)
+# Dimensionality Reduction of US Census Data using Principal Component Analysis
 
 
 
