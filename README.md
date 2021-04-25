@@ -12,7 +12,7 @@
   * [Use git to clone the repository into the notebook instance](#use-git-to-clone-the-repository-into-the-notebook-instance)
 - [Machine Learning Pipeline](#machine-learning-pipeline)
   * [Step 1 - Loading data from S3](#step-1---loading-data-from-s3)
-  * [Step 2 - Exploratory Data Analysis (EDA)](#step-2---exploratory-data-analysis--eda-)
+  * [Step 2 - Exploratory Data Analysis (EDA)](#step-2---exploratory-data-analysis-eda)
     + [Part A - Visualizing data](#part-a---visualizing-data)
     + [Part B - Data Modeling](#part-b---data-modeling)
   * [Step 2 - Dimensionality Reduction](#step-2---dimensionality-reduction)
